@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "MBProgressHUD+JDragon"
+  s.name         = "MBProgressHUD+XXJDragon"
   s.version      = "0.0.4"
   s.summary      = "MBProgressHUD 封装"
 
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   MBProgressHUD 简单封装
                    DESC
 
-  s.homepage     = "https://github.com/lyc59621//MBProgressHUD-JDragon"
+  s.homepage     = "https://github.com/xu386392126/MBProgressHUD-JDragon"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/lyc59621/MBProgressHUD-JDragon.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/xu386392126/MBProgressHUD-JDragon.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
